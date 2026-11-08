@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Paper Agent",
+  "description": "Advanced Computer Science Research Agent for extracting system architectures, Mermaid flowcharts, and 3rd-year CS student resume project extensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
